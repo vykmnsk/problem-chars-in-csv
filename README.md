@@ -1,6 +1,8 @@
 # Problem characters in files
 Find
 - unusual or international characters
+- inconsistent number of delimiters in a row
+
 in CSV files
 
 
@@ -11,5 +13,6 @@ in CSV files
 
 # Run
 	python find_problem_chars.py
+	python find_bad_rows.py
 
 
